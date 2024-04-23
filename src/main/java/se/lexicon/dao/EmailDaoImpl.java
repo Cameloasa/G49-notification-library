@@ -3,7 +3,6 @@ package se.lexicon.dao;
 import se.lexicon.exception.DataNotFoundException;
 import se.lexicon.model.Email;
 
-import java.time.LocalDate;
 import java.time.LocalDateTime;
 import java.util.ArrayList;
 import java.util.List;

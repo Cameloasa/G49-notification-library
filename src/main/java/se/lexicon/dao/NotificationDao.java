@@ -1,7 +1,5 @@
 package se.lexicon.dao;
 
-import se.lexicon.model.Email;
-
 import java.util.List;
 
 public interface NotificationDao <T>{
